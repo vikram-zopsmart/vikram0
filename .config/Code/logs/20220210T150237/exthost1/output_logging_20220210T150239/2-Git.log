@@ -1,0 +1,5 @@
+[2022-02-10T09:32:40.877Z] Validating found git in: git
+[2022-02-10T09:32:40.923Z] Using git 2.25.1 from git
+[2022-02-10T09:32:41.242Z] > git rev-parse --git-dir [210ms]
+[2022-02-10T09:32:41.245Z] Open repository: /home/raramuri
+[2022-02-10T09:32:41.572Z] > git ls-files --stage -- /home/raramuri/Downloads/wordle-clone-main/index.html [3ms]

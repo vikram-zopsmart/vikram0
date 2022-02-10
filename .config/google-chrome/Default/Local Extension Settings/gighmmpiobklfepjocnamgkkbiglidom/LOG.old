@@ -1,0 +1,47 @@
+2022/02/09-15:15:35.364 a6a Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2022/02/09-15:15:35.364 a6a Recovering log #196
+2022/02/09-15:15:35.365 a6a Reusing old log /home/raramuri/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000196.log 
+2022/02/09-15:16:40.556 a5f Level-0 table #200: started
+2022/02/09-15:16:40.658 a5f Level-0 table #200: 7342759 bytes OK
+2022/02/09-15:16:40.661 a5f Delete type=0 #196
+2022/02/09-15:17:57.480 a6e Level-0 table #202: started
+2022/02/09-15:17:57.648 a6e Level-0 table #202: 7342608 bytes OK
+2022/02/09-15:17:57.654 a6e Delete type=0 #199
+2022/02/09-15:17:57.661 a6e Compacting 4@0 + 2@1 files
+2022/02/09-15:17:57.855 a6e Generated table #203@0: 1 keys, 7342608 bytes
+2022/02/09-15:17:57.858 a6e Generated table #204@0: 5 keys, 373 bytes
+2022/02/09-15:17:57.858 a6e Compacted 4@0 + 2@1 files => 7342981 bytes
+2022/02/09-15:17:57.859 a6e compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/02/09-15:17:57.860 a6e Delete type=2 #195
+2022/02/09-15:17:57.860 a6e Delete type=2 #193
+2022/02/09-15:17:57.860 a6e Delete type=2 #197
+2022/02/09-15:17:57.860 a6e Delete type=2 #200
+2022/02/09-15:17:57.860 a6e Delete type=2 #192
+2022/02/09-15:17:57.860 a6e Delete type=2 #202
+2022/02/09-16:16:40.817 10c5 Level-0 table #206: started
+2022/02/09-16:16:40.861 1306 Current memtable full; waiting...
+2022/02/09-16:16:40.975 10c5 Level-0 table #206: 7342735 bytes OK
+2022/02/09-16:16:40.978 10c5 Delete type=0 #201
+2022/02/09-16:16:40.985 10c5 Level-0 table #208: started
+2022/02/09-16:16:41.169 10c5 Level-0 table #208: 7342607 bytes OK
+2022/02/09-16:16:41.172 10c5 Delete type=0 #205
+2022/02/09-16:22:49.300 1306 Level-0 table #210: started
+2022/02/09-16:22:49.518 1306 Level-0 table #210: 7342805 bytes OK
+2022/02/09-16:22:49.522 1306 Delete type=0 #207
+2022/02/09-17:16:40.448 18eb Level-0 table #212: started
+2022/02/09-17:16:40.567 18eb Level-0 table #212: 7342726 bytes OK
+2022/02/09-17:16:40.571 18eb Delete type=0 #209
+2022/02/09-17:16:40.577 18eb Compacting 4@0 + 2@1 files
+2022/02/09-17:16:40.753 18eb Generated table #213@0: 1 keys, 7342612 bytes
+2022/02/09-17:16:40.756 18eb Generated table #214@0: 5 keys, 373 bytes
+2022/02/09-17:16:40.756 18eb Compacted 4@0 + 2@1 files => 7342985 bytes
+2022/02/09-17:16:40.757 18eb compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/02/09-17:16:40.758 18eb Delete type=2 #203
+2022/02/09-17:16:40.758 18eb Delete type=2 #206
+2022/02/09-17:16:40.758 18eb Delete type=2 #204
+2022/02/09-17:16:40.758 18eb Delete type=2 #208
+2022/02/09-17:16:40.758 18eb Delete type=2 #210
+2022/02/09-17:16:40.758 18eb Delete type=2 #212
+2022/02/09-17:17:20.139 18eb Level-0 table #216: started
+2022/02/09-17:17:20.234 18eb Level-0 table #216: 7342612 bytes OK
+2022/02/09-17:17:20.237 18eb Delete type=0 #211

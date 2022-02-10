@@ -1,0 +1,23 @@
+[2022-02-08 14:00:31.806] [main] [info] update#setState idle
+[2022-02-08 14:00:32.025] [main] [info] ExtensionHostStarterWorker created
+[2022-02-08 14:00:33.387] [main] [info] Starting extension host with pid 27665 (fork() took 21 ms).
+[2022-02-08 14:00:33.387] [main] [info] ExtensionHostStarterWorker.start() took 23 ms.
+[2022-02-08 14:01:01.811] [main] [info] update#setState checking for updates
+[2022-02-08 14:01:01.817] [main] [info] update#setState idle
+[2022-02-08 14:26:04.828] [main] [info] Starting extension host with pid 29483 (fork() took 12 ms).
+[2022-02-08 14:26:04.829] [main] [info] ExtensionHostStarterWorker.start() took 15 ms.
+[2022-02-08 14:26:04.831] [main] [info] Extension host with pid 27665 exited with code: 0, signal: null.
+[2022-02-08 14:27:16.006] [main] [info] Starting extension host with pid 29587 (fork() took 9 ms).
+[2022-02-08 14:27:16.008] [main] [info] ExtensionHostStarterWorker.start() took 16 ms.
+[2022-02-08 14:27:16.009] [main] [info] Extension host with pid 29483 exited with code: 0, signal: null.
+[2022-02-08 15:10:52.396] [main] [info] update#setState checking for updates
+[2022-02-08 15:10:52.400] [main] [info] update#setState idle
+[2022-02-08 16:15:45.159] [main] [info] update#setState checking for updates
+[2022-02-08 16:15:45.164] [main] [info] update#setState idle
+[2022-02-08 17:04:31.769] [main] [info] Extension host with pid 29587 exited with code: 0, signal: null.
+[2022-02-08 17:04:32.931] [main] [info] Starting extension host with pid 33803 (fork() took 8 ms).
+[2022-02-08 17:04:32.932] [main] [info] ExtensionHostStarterWorker.start() took 9 ms.
+[2022-02-08 17:15:45.209] [main] [info] update#setState checking for updates
+[2022-02-08 17:15:45.213] [main] [info] update#setState idle
+[2022-02-08 17:20:34.231] [main] [info] Waiting for extension host with pid 33803 to exit.
+[2022-02-08 17:20:34.274] [main] [info] Extension host with pid 33803 exited with code: 0, signal: null.

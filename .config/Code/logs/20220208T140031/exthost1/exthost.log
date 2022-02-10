@@ -1,0 +1,101 @@
+[2022-02-08 14:00:34.102] [exthost] [info] Extension host with pid 27665 started
+[2022-02-08 14:00:34.102] [exthost] [info] Skipping acquiring lock for /home/raramuri/.config/Code/User/workspaceStorage/a5f808faf7b8b8e84974d0b76bfc7f00.
+[2022-02-08 14:00:34.257] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-08 14:00:34.281] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-08 14:00:34.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-08 14:00:34.504] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-08 14:00:34.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-08 14:00:34.509] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-08 14:00:34.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-08 14:00:34.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-08 14:00:34.768] [exthost] [info] Eager extensions activated
+[2022-02-08 14:00:34.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-08 14:00:34.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 14:00:34.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 14:00:34.837] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 14:00:43.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-02-08 14:00:43.178] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'
+[2022-02-08 14:23:23.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 14:23:23.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 14:26:04.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-08 14:26:04.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-08 14:26:04.779] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-08 14:26:04.794] [exthost] [info] Extension host with pid 27665 exiting with code 0
+[2022-02-08 14:26:05.299] [exthost] [info] Extension host with pid 29483 started
+[2022-02-08 14:26:05.300] [exthost] [info] Skipping acquiring lock for /home/raramuri/.config/Code/User/workspaceStorage/8ead08771134beadbd03c0f5c9214fe6.
+[2022-02-08 14:26:05.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-08 14:26:05.386] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-08 14:26:05.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-08 14:26:05.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-08 14:26:05.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-02-08 14:26:05.551] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'
+[2022-02-08 14:26:05.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 14:26:05.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 14:26:05.638] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onCommand:code-runner.run'
+[2022-02-08 14:26:05.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-08 14:26:05.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-08 14:26:05.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-08 14:26:05.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-08 14:26:05.714] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-08 14:26:05.963] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-08 14:26:05.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-08 14:26:06.125] [exthost] [info] Eager extensions activated
+[2022-02-08 14:26:06.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 14:26:06.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 14:27:15.955] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-08 14:27:15.979] [exthost] [info] Extension host with pid 29483 exiting with code 0
+[2022-02-08 14:27:16.438] [exthost] [info] Extension host with pid 29587 started
+[2022-02-08 14:27:16.438] [exthost] [info] Skipping acquiring lock for /home/raramuri/.config/Code/User/workspaceStorage/8ead08771134beadbd03c0f5c9214fe6.
+[2022-02-08 14:27:16.522] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-08 14:27:16.535] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-08 14:27:16.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-08 14:27:16.674] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-08 14:27:16.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-02-08 14:27:16.694] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'
+[2022-02-08 14:27:16.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 14:27:16.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 14:27:16.787] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onCommand:code-runner.run'
+[2022-02-08 14:27:16.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-08 14:27:16.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-08 14:27:16.832] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-08 14:27:16.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-08 14:27:16.836] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-08 14:27:16.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-08 14:27:16.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-08 14:27:17.057] [exthost] [info] Eager extensions activated
+[2022-02-08 14:27:17.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 14:27:17.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 14:27:18.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-02-08 14:27:19.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-08 14:40:48.470] [exthost] [info] ExtensionService#_doActivateExtension techer.open-in-browser, startup: false, activationEvent: 'onCommand:extension.openInSpecifyBrowser'
+[2022-02-08 14:41:24.486] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-08 14:41:24.486] [exthost] [error] undefined
+[2022-02-08 14:41:29.974] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-08 14:41:29.974] [exthost] [error] undefined
+[2022-02-08 14:41:37.835] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-08 14:41:37.835] [exthost] [error] undefined
+[2022-02-08 17:03:16.652] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-08 17:04:31.708] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-08 17:04:31.754] [exthost] [info] Extension host with pid 29587 exiting with code 0
+[2022-02-08 17:04:33.676] [exthost] [info] Extension host with pid 33803 started
+[2022-02-08 17:04:33.676] [exthost] [info] Skipping acquiring lock for /home/raramuri/.config/Code/User/workspaceStorage/c4f1bd6fce2e5ccb4dda3f4cb8659644.
+[2022-02-08 17:04:33.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-08 17:04:33.766] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-08 17:04:33.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-08 17:04:33.772] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-08 17:04:33.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-08 17:04:33.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-08 17:04:33.932] [exthost] [info] Eager extensions activated
+[2022-02-08 17:04:33.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-08 17:04:33.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 17:04:33.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 17:04:33.984] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 17:04:34.873] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-08 17:04:34.898] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-08 17:04:36.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-08 17:04:42.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-02-08 17:04:54.051] [exthost] [info] ExtensionService#_doActivateExtension techer.open-in-browser, startup: false, activationEvent: 'onCommand:extension.openInSpecifyBrowser'
+[2022-02-08 17:20:24.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 17:20:24.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 17:20:34.219] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-08 17:20:34.263] [exthost] [info] Extension host with pid 33803 exiting with code 0

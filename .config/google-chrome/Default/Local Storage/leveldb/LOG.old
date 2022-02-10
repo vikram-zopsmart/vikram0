@@ -1,0 +1,6 @@
+2022/02/09-15:15:34.435 5 Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/02/09-15:15:34.436 5 Recovering log #31
+2022/02/09-15:15:34.436 5 Reusing old log /home/raramuri/.config/google-chrome/Default/Local Storage/leveldb/000031.log 
+2022/02/09-17:25:42.047 2a Level-0 table #35: started
+2022/02/09-17:25:42.052 2a Level-0 table #35: 16991 bytes OK
+2022/02/09-17:25:42.055 2a Delete type=0 #31

@@ -1,0 +1,12 @@
+[2022-02-08 14:00:37.630] [sharedprocess] [info] Starting worker process with pid 27753 (type: fileWatcher, window: 1).
+[2022-02-08 14:07:55.577] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-08 15:21:29.531] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-08 17:04:31.726] [sharedprocess] [info] Worker process with pid 27753 terminated normally (type: fileWatcher, window: 1).
+[2022-02-08 17:04:32.980] [sharedprocess] [info] Starting worker process with pid 33804 (type: fileWatcher, window: 1).
+[2022-02-08 17:04:35.569] [sharedprocess] [info] Getting Manifest... formulahendry.code-runner
+[2022-02-08 17:04:36.154] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2022-02-08 17:04:38.220] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/raramuri/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.7
+[2022-02-08 17:04:39.002] [sharedprocess] [info] Extracted extension to /home/raramuri/.vscode/extensions/.694f0ae2-a4a5-405c-97a5-5eb610efa963: formulahendry.code-runner
+[2022-02-08 17:04:39.010] [sharedprocess] [info] Renamed to /home/raramuri/.vscode/extensions/formulahendry.code-runner-0.11.7
+[2022-02-08 17:04:39.013] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2022-02-08 17:04:39.018] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner

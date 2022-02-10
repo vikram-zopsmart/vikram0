@@ -1,0 +1,25 @@
+[Running] start google-chrome "/home/raramuri/js programs/base.html"
+/bin/sh: 1: start: not found
+
+[Done] exited with code=127 in 0.01 seconds
+
+[Running] node "/home/raramuri/js programs/base.js"
+/bin/sh: 1: node: not found
+
+[Done] exited with code=127 in 0.017 seconds
+
+[Running] node "/home/raramuri/js programs/base1.js"
+/bin/sh: 1: node: not found
+
+[Done] exited with code=127 in 0.007 seconds
+
+[Running] node "/home/raramuri/js programs/base1.js"
+/bin/sh: 1: node: not found
+
+[Done] exited with code=127 in 0.013 seconds
+
+[Running] node "/home/raramuri/js programs/base1.js"
+/bin/sh: 1: node: not found
+
+[Done] exited with code=127 in 0.023 seconds
+

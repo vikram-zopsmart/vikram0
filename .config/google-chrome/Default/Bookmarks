@@ -1,0 +1,124 @@
+{
+   "checksum": "34e418276d0e0f236b5a75d556243d08",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13288269034157247",
+            "guid": "2876791a-cdb6-47f5-8797-1f77160ffa04",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13288269034158824",
+            "guid": "f9c7e420-36d2-4ab6-a240-09d93d916926",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13288269034159638",
+            "guid": "3ae4fcb4-c9f8-47c8-94e5-cf7ad251ab93",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13288269037732995",
+            "guid": "8a6d11d0-4eba-4743-bb3f-2cdb8d51adb7",
+            "id": "8",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13288352502654129",
+            "guid": "13534fc9-56ca-41de-bbb0-0b5527c4a6a2",
+            "id": "10",
+            "name": "Prime Video",
+            "type": "url",
+            "url": "https://www.primevideo.com/storefront/home/ref=atv_dp_tv_c_9zZ8D2_1_1"
+         }, {
+            "date_added": "13288354199740826",
+            "guid": "aa158295-1dbb-4456-bbf6-09a08495e4d2",
+            "id": "11",
+            "name": "Amizone",
+            "type": "url",
+            "url": "https://s.amizone.net/Home"
+         }, {
+            "date_added": "13288428087508551",
+            "guid": "c529b3aa-2409-44a5-b20b-9679451c6505",
+            "id": "13",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13288438998088835",
+            "guid": "28385203-e2ee-4b84-b7af-23324fe924ec",
+            "id": "14",
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13288439850770188",
+            "guid": "f39ed285-cb48-4557-8817-2631ef814fbf",
+            "id": "15",
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/explore/"
+         }, {
+            "date_added": "13288859276842350",
+            "guid": "1ab742bb-bc0f-4bc9-b834-0f2c478e7dd2",
+            "id": "17",
+            "name": "Mail - VIKRAM JOTHIK MATETI - Outlook",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/"
+         }, {
+            "date_added": "13288879871086426",
+            "guid": "e6826baa-ed9f-4ff4-8e19-183cb774cc1e",
+            "id": "19",
+            "name": "mkv PC and smartphone Movies of Bollywood Hollywood Hindi Cartoon Animation TV Shows Web Series at mkvCinemas - mkvCinemas.Com",
+            "type": "url",
+            "url": "https://www.mkvcinemas.nz/"
+         }, {
+            "date_added": "13288948988292974",
+            "guid": "51ee7693-ac28-494b-b883-f6cc6b36270e",
+            "id": "21",
+            "name": "Deep Learning and Artificial Intelligence (B.Tech 2018-2022)",
+            "type": "url",
+            "url": "https://learn.amityfutureacademy.com/courses/369"
+         }, {
+            "date_added": "13288958489126266",
+            "guid": "1681010c-35f6-4c97-91ee-2bbb13ca0e88",
+            "id": "22",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         } ],
+         "date_added": "13288269026681096",
+         "date_modified": "13288958489126266",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13288269026681100",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13288269026681102",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

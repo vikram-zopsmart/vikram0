@@ -1,0 +1,12 @@
+[2022-02-09T11:40:47.274Z] Validating found git in: git
+[2022-02-09T11:40:47.304Z] Using git 2.25.1 from git
+[2022-02-09T11:40:47.417Z] > git rev-parse --git-dir [68ms]
+[2022-02-09T11:40:47.420Z] Open repository: /home/raramuri/Todo-list
+[2022-02-09T11:40:47.494Z] > git symbolic-ref --short HEAD [3ms]
+[2022-02-09T11:40:47.503Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-02-09T11:40:47.522Z] > git remote --verbose [6ms]
+[2022-02-09T11:40:47.522Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-02-09T11:40:47.533Z] > git config --get commit.template [2ms]
+[2022-02-09T11:40:47.770Z] > git ls-files --stage -- /home/raramuri/Todo-list/index.html [4ms]
+[2022-02-09T11:40:47.777Z] > git cat-file -s 50f3a694efdfac6248612709a858c9ddceffdb80 [1ms]
+[2022-02-09T11:40:55.511Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n24 -- /home/raramuri/Todo-list/index.html [2ms]

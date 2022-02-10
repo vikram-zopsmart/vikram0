@@ -1,0 +1,12 @@
+2022/02/08-16:16:12.554 7e6f Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/08-16:16:12.554 7e6f Recovering log #11
+2022/02/08-16:16:12.605 7e6f Reusing old log /home/raramuri/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000011.log 
+2022/02/08-17:23:01.505 8996 Level-0 table #16: started
+2022/02/08-17:23:01.572 8996 Level-0 table #16: 1293101 bytes OK
+2022/02/08-17:23:01.575 8996 Delete type=0 #11
+2022/02/08-17:29:03.504 8996 Compacting 1@1 + 1@2 files
+2022/02/08-17:29:03.552 8996 Generated table #17@1: 26959 keys, 1208769 bytes
+2022/02/08-17:29:03.552 8996 Compacted 1@1 + 1@2 files => 1208769 bytes
+2022/02/08-17:29:03.554 8996 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/08-17:29:03.555 8996 Delete type=2 #16
+2022/02/08-17:29:03.555 8996 Delete type=2 #13

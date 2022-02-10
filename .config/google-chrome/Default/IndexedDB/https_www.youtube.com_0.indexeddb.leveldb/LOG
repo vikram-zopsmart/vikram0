@@ -1,0 +1,23 @@
+2022/02/10-09:40:45.192 e19 Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/10-09:40:45.192 e19 Recovering log #64
+2022/02/10-09:40:45.218 e19 Reusing old log /home/raramuri/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000064.log 
+2022/02/10-09:40:45.218 e19 Delete type=2 #62
+2022/02/10-09:40:45.219 e19 Delete type=2 #65
+2022/02/10-10:47:15.666 2a08 Level-0 table #69: started
+2022/02/10-10:47:15.696 2a08 Level-0 table #69: 1229428 bytes OK
+2022/02/10-10:47:15.697 2a08 Delete type=0 #64
+2022/02/10-10:47:15.976 2a0f Compacting 1@1 + 1@2 files
+2022/02/10-10:47:15.987 2a0f Generated table #70@1: 522 keys, 45174 bytes
+2022/02/10-10:47:15.987 2a0f Compacted 1@1 + 1@2 files => 45174 bytes
+2022/02/10-10:47:15.989 2a0f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/10-13:52:53.385 349b Level-0 table #72: started
+2022/02/10-13:52:53.410 349b Level-0 table #72: 1148925 bytes OK
+2022/02/10-13:52:53.412 349b Delete type=2 #66
+2022/02/10-13:52:53.412 349b Delete type=0 #68
+2022/02/10-13:52:53.412 349b Delete type=2 #69
+2022/02/10-14:12:52.263 3dab Compacting 1@1 + 1@2 files
+2022/02/10-14:12:52.274 3dab Generated table #73@1: 423 keys, 38034 bytes
+2022/02/10-14:12:52.274 3dab Compacted 1@1 + 1@2 files => 38034 bytes
+2022/02/10-14:12:52.275 3dab compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/10-14:12:52.276 3dab Delete type=2 #70
+2022/02/10-14:12:52.276 3dab Delete type=2 #72

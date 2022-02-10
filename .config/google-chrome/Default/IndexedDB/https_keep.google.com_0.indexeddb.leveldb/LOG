@@ -1,0 +1,6 @@
+2022/02/08-15:25:31.791 7a6f Creating DB /home/raramuri/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb since it was missing.
+2022/02/08-15:25:31.796 7a6f Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/08-17:21:33.169 84d6 Level-0 table #5: started
+2022/02/08-17:21:33.172 84d6 Level-0 table #5: 3807 bytes OK
+2022/02/08-17:21:33.175 84d6 Delete type=0 #3
+2022/02/08-17:21:33.175 84d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+[2022-02-09 16:37:21.953] [sharedprocess] [info] Starting worker process with pid 6128 (type: fileWatcher, window: 1).
+[2022-02-09 17:09:10.781] [sharedprocess] [info] Worker process with pid 6128 terminated normally (type: fileWatcher, window: 1).
+[2022-02-09 17:09:11.995] [sharedprocess] [info] Starting worker process with pid 7342 (type: fileWatcher, window: 1).
+[2022-02-09 17:09:57.393] [sharedprocess] [info] Worker process with pid 7342 terminated normally (type: fileWatcher, window: 1).
+[2022-02-09 17:09:58.783] [sharedprocess] [info] Starting worker process with pid 7437 (type: fileWatcher, window: 1).
+[2022-02-09 17:10:16.562] [sharedprocess] [info] Starting worker process with pid 7544 (type: fileWatcher, window: 3).
+[2022-02-09 17:10:26.747] [sharedprocess] [info] Worker process with pid 7544 terminated normally (type: fileWatcher, window: 3).

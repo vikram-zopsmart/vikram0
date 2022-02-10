@@ -1,0 +1,15 @@
+[2022-02-08T08:57:17.016Z] Validating found git in: git
+[2022-02-08T08:57:17.046Z] Using git 2.25.1 from git
+[2022-02-08T11:33:09.759Z] > git rev-parse --git-dir [1ms]
+[2022-02-08T11:33:09.765Z] Open repository: /home/raramuri
+[2022-02-08T11:33:10.112Z] > git ls-files --stage -- /home/raramuri/Documents/js programs/base.css [2ms]
+[2022-02-08T11:33:16.494Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-08T11:33:16.501Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-02-08T11:33:16.514Z] > git remote --verbose [1ms]
+[2022-02-08T11:33:16.514Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-02-08T11:33:18.495Z] > git config --get commit.template [26ms]
+[2022-02-08T11:33:20.904Z] > git ls-files --stage -- /home/raramuri/Documents/js programs/base.js [7ms]
+[2022-02-08T11:33:22.539Z] > git ls-files --stage -- /home/raramuri/Documents/js programs/base.css [1ms]
+[2022-02-08T11:33:23.351Z] > git ls-files --stage -- /home/raramuri/Documents/js programs/base.html [2ms]
+[2022-02-08T11:33:39.181Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n37 -- /home/raramuri/Documents/js programs/base.html [2ms]
+[2022-02-08T11:33:39.181Z] fatal: your current branch 'master' does not have any commits yet

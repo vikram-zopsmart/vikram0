@@ -1,0 +1,15 @@
+[2022-02-09T11:07:21.434Z] Validating found git in: git
+[2022-02-09T11:07:21.565Z] Using git 2.25.1 from git
+[2022-02-09T11:07:22.223Z] > git rev-parse --git-dir [326ms]
+[2022-02-09T11:07:22.240Z] Open repository: /home/raramuri/Todo-list
+[2022-02-09T11:07:22.328Z] > git symbolic-ref --short HEAD [3ms]
+[2022-02-09T11:07:22.348Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [4ms]
+[2022-02-09T11:07:22.393Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+[2022-02-09T11:07:22.396Z] > git remote --verbose [5ms]
+[2022-02-09T11:07:22.428Z] > git config --get commit.template [20ms]
+[2022-02-09T11:07:23.075Z] > git ls-files --stage -- /home/raramuri/Todo-list/script.js [34ms]
+[2022-02-09T11:07:23.133Z] > git cat-file -s 8be690f2d811b46bc615b52421ada34bec5a4080 [29ms]
+[2022-02-09T11:09:16.684Z] > git ls-files --stage -- /home/raramuri/Todo-list/index.html [2ms]
+[2022-02-09T11:09:16.692Z] > git cat-file -s 50f3a694efdfac6248612709a858c9ddceffdb80 [2ms]
+[2022-02-09T11:09:21.145Z] > git ls-files --stage -- /home/raramuri/Todo-list/script.js [22ms]
+[2022-02-09T11:09:21.173Z] > git cat-file -s 8be690f2d811b46bc615b52421ada34bec5a4080 [8ms]

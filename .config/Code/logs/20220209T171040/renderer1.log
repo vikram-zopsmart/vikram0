@@ -1,0 +1,7 @@
+[2022-02-09 17:10:45.872] [renderer1] [info] IExtensionHostStarter.start() took 233 ms.
+[2022-02-09 17:10:46.242] [renderer1] [error] [Extension Host] (node:7939) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-09 17:10:56.130] [renderer1] [error] Error while registering log channel file:///home/raramuri/.config/Code/logs/20220209T171040/userDataSync.log Timed out while waiting for file to be created
+[2022-02-09 17:11:12.263] [renderer1] [info] IExtensionHostStarter.start() took 26 ms.
+[2022-02-09 17:11:12.891] [renderer1] [error] [Extension Host] (node:8052) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

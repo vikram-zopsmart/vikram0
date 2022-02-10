@@ -1,0 +1,84 @@
+{
+	"name": "omt",
+	"displayName": "OMT & ODT",
+	"description": "OMT & ODT Language Support",
+	"version": "1.1.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pcmill/omt-vscode.git"
+	},
+	"publisher": "OPP",
+	"engines": {
+		"vscode": "^1.23.0"
+	},
+	"author": {
+		"name": "Team Bluefingers, Team Pragmaten"
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./"
+	},
+	"devDependencies": {
+		"@types/node": "^8.10.25",
+		"@types/vscode": "^1.23.0",
+		"tslint": "^5.11.0",
+		"typescript": "^3.1.1"
+	},
+	"categories": [
+		"Programming Languages",
+		"Snippets",
+		"Other"
+	],
+	"main": "./out/extension.js",
+	"activationEvents": [
+		"onLanguage:omt"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "omt",
+				"aliases": [
+					"OMT",
+					"odt"
+				],
+				"extensions": [
+					".omt",
+					".odt"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "omt",
+				"scopeName": "source.omt",
+				"path": "./syntaxes/OMT.tmLanguage.json"
+			}
+		],
+		"themes": [
+			{
+				"label": "OMT Sub Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/omt-sub.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "omt",
+				"path": "./snippets/omt.json"
+			},
+			{
+				"language": "omt",
+				"path": "./snippets/odt.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c876a3a2-1d9c-4a81-a633-576d285348de",
+		"publisherId": "a41ec2c2-ea22-4ac0-9a1c-89e9149cecfd",
+		"publisherDisplayName": "OPP",
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1643794526319
+	}
+}

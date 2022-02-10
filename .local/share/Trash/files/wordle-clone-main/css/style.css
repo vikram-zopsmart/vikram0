@@ -1,0 +1,53 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body * {
+    box-sizing: inherit;
+}
+
+header h1 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+#center-content {
+    display: flex;
+}
+
+.guess {
+    border: 1px solid black;
+}
+
+.userguess {
+    margin-bottom: 4px;
+}
+
+.userguess .letter {
+    border: 2px solid gray;
+    display: inline-block;
+    padding: 4px 8px;
+    margin-right: 4px;
+}
+
+.userguess .status0 {
+    background-color: #aaa;
+}
+
+.userguess .status1 {
+    background-color: yellow;
+}
+
+.userguess .status2 {
+    background-color: green;
+}
+
+.hidden {
+    display: none;
+}

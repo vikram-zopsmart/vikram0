@@ -1,0 +1,74 @@
+[2022-02-08 14:00:33.446] [renderer1] [info] IExtensionHostStarter.start() took 81 ms.
+[2022-02-08 14:00:33.926] [renderer1] [error] [Extension Host] (node:27665) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 14:24:39.936] [renderer1] [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/raramuri/js programs)
+[2022-02-08 14:25:21.798] [renderer1] [error] Error: File not found
+    at S.handleSetInputError (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106808)
+    at async S.setInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106483)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:26561)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24934)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24560)
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2551:16600
+[2022-02-08 14:25:22.811] [renderer1] [error] Error: File not found
+    at S.handleSetInputError (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106808)
+    at async S.setInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106483)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:26561)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24934)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24560)
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2551:16600
+[2022-02-08 14:25:35.636] [renderer1] [error] Error: File not found
+    at S.handleSetInputError (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106808)
+    at async S.setInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106483)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:26561)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24934)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24560)
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2551:16600
+[2022-02-08 14:25:36.820] [renderer1] [error] Error: File not found
+    at S.handleSetInputError (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106808)
+    at async S.setInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106483)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:26561)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24934)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24560)
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2551:16600
+[2022-02-08 14:25:54.195] [renderer1] [error] Error: File not found
+    at S.handleSetInputError (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106808)
+    at async S.setInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106483)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:26561)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24934)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24560)
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2551:16600
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2690:65313
+[2022-02-08 14:26:04.810] [renderer1] [error] Cannot call write after a stream was destroyed: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at afterWrite (internal/streams/writable.js:470:24)
+    at onwrite (internal/streams/writable.js:446:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:89:12)
+[2022-02-08 14:26:04.832] [renderer1] [info] IExtensionHostStarter.start() took 18 ms.
+[2022-02-08 14:26:05.235] [renderer1] [error] [Extension Host] (node:29483) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 14:26:06.227] [renderer1] [error] Error: File not found
+    at S.handleSetInputError (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106808)
+    at async S.setInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106483)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:26561)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24934)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24560)
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2551:16600
+[2022-02-08 14:26:58.718] [renderer1] [error] Error: File not found
+    at S.handleSetInputError (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106808)
+    at async S.setInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:106483)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:26561)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24934)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2351:24560)
+    at async vscode-file://vscode-app/snap/code/86/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2551:16600
+[2022-02-08 14:27:16.017] [renderer1] [info] IExtensionHostStarter.start() took 29 ms.
+[2022-02-08 14:27:16.372] [renderer1] [error] [Extension Host] (node:29587) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 14:41:24.487] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 14:41:29.976] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 14:41:37.836] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 17:02:59.014] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+[2022-02-08 17:03:39.185] [renderer1] [error] Failed to execute git
+[2022-02-08 17:04:12.177] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+[2022-02-08 17:04:18.563] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+[2022-02-08 17:04:32.948] [renderer1] [info] IExtensionHostStarter.start() took 27 ms.
+[2022-02-08 17:04:33.517] [renderer1] [error] [Extension Host] (node:33803) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

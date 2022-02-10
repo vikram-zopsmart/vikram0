@@ -1,0 +1,28 @@
+[2022-02-08 10:24:19.705] [renderer1] [info] IExtensionHostStarter.start() took 31 ms.
+[2022-02-08 10:24:20.160] [renderer1] [error] [Extension Host] (node:3107) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 10:24:29.717] [renderer1] [error] Error while registering log channel file:///home/raramuri/.config/Code/logs/20220208T102417/userDataSync.log Timed out while waiting for file to be created
+[2022-02-08 10:56:23.736] [renderer1] [info] IExtensionHostStarter.start() took 49 ms.
+[2022-02-08 10:56:24.403] [renderer1] [error] [Extension Host] (node:6212) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 12:03:27.282] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:03:29.024] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:03:30.139] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:12:30.664] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:23:50.382] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:23:53.996] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:27:49.424] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:27:55.319] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:28:44.248] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:28:45.396] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:28:46.455] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:28:48.159] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:46:05.836] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:46:12.922] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:46:14.783] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:46:36.214] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:57:29.009] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:57:30.942] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:57:31.975] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 12:57:33.628] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-08 13:03:15.901] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

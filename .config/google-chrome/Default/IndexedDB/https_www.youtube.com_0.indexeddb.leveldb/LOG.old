@@ -1,0 +1,10 @@
+2022/02/09-15:15:53.616 a5f Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/09-15:15:53.616 a5f Recovering log #60
+2022/02/09-15:15:53.741 a5f Reusing old log /home/raramuri/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000060.log 
+2022/02/09-15:23:05.561 a6e Level-0 table #65: started
+2022/02/09-15:23:05.590 a6e Level-0 table #65: 1131132 bytes OK
+2022/02/09-15:23:05.593 a6e Delete type=0 #60
+2022/02/09-15:47:54.204 10c5 Compacting 1@1 + 1@2 files
+2022/02/09-15:47:54.234 10c5 Generated table #66@1: 431 keys, 29424 bytes
+2022/02/09-15:47:54.234 10c5 Compacted 1@1 + 1@2 files => 29424 bytes
+2022/02/09-15:47:54.236 10c5 compacted to: files[ 0 0 1 0 0 0 0 ]

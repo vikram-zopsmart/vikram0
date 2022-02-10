@@ -1,0 +1,6 @@
+2022/02/03-14:13:34.052 b92 Creating DB /home/raramuri/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb since it was missing.
+2022/02/03-14:13:34.057 b92 Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/03-14:31:38.895 fef Level-0 table #5: started
+2022/02/03-14:31:38.897 fef Level-0 table #5: 1268 bytes OK
+2022/02/03-14:31:38.898 fef Delete type=0 #3
+2022/02/03-14:31:38.899 fef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

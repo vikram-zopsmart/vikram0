@@ -1,0 +1,21 @@
+[2022-02-10 09:40:58.478] [exthost] [info] Extension host with pid 4221 started
+[2022-02-10 09:40:58.478] [exthost] [info] Skipping acquiring lock for /home/raramuri/.config/Code/User/workspaceStorage/f73fa28ddae820afd48572b3d7020f8d.
+[2022-02-10 09:40:58.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-10 09:40:58.973] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-10 09:40:59.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-10 09:40:59.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-10 09:40:59.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-10 09:40:59.630] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-10 09:41:00.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-10 09:41:00.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-10 09:41:01.120] [exthost] [info] Eager extensions activated
+[2022-02-10 09:41:01.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-10 09:41:01.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-10 09:41:01.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-10 09:41:01.421] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-10 09:41:12.890] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-10 12:27:42.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-10 12:27:45.778] [exthost] [info] ExtensionService#_doActivateExtension techer.open-in-browser, startup: false, activationEvent: 'onCommand:extension.openInSpecifyBrowser'
+[2022-02-10 12:28:55.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-02-10 15:02:35.308] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-10 15:02:35.358] [exthost] [info] Extension host with pid 4221 exiting with code 0

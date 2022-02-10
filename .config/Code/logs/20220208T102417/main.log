@@ -1,0 +1,15 @@
+[2022-02-08 10:24:17.854] [main] [info] update#setState idle
+[2022-02-08 10:24:18.019] [main] [info] ExtensionHostStarterWorker created
+[2022-02-08 10:24:19.688] [main] [info] Starting extension host with pid 3107 (fork() took 11 ms).
+[2022-02-08 10:24:19.688] [main] [info] ExtensionHostStarterWorker.start() took 14 ms.
+[2022-02-08 10:24:47.856] [main] [info] update#setState checking for updates
+[2022-02-08 10:24:47.860] [main] [info] update#setState idle
+[2022-02-08 10:56:22.562] [main] [info] Extension host with pid 3107 exited with code: 0, signal: null.
+[2022-02-08 10:56:23.698] [main] [info] Starting extension host with pid 6212 (fork() took 7 ms).
+[2022-02-08 10:56:23.698] [main] [info] ExtensionHostStarterWorker.start() took 11 ms.
+[2022-02-08 11:50:18.111] [main] [info] update#setState checking for updates
+[2022-02-08 11:50:18.113] [main] [info] update#setState idle
+[2022-02-08 12:53:59.311] [main] [info] update#setState checking for updates
+[2022-02-08 12:53:59.315] [main] [info] update#setState idle
+[2022-02-08 14:00:28.236] [main] [info] Waiting for extension host with pid 6212 to exit.
+[2022-02-08 14:00:28.265] [main] [info] Extension host with pid 6212 exited with code: 0, signal: null.

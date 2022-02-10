@@ -1,0 +1,4 @@
+[2022-02-10 15:02:39.230] [renderer1] [info] IExtensionHostStarter.start() took 264 ms.
+[2022-02-10 15:02:39.663] [renderer1] [error] [Extension Host] (node:18151) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-10 15:03:16.636] [renderer1] [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/raramuri/Downloads/wordle-clone-main)

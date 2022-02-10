@@ -1,0 +1,7 @@
+2022/02/10-12:02:46.528 2ead Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/10-12:02:46.529 2ead Recovering log #3
+2022/02/10-12:02:46.529 2ead Reusing old log /home/raramuri/.config/google-chrome/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000003.log 
+2022/02/10-12:13:17.745 3255 Level-0 table #5: started
+2022/02/10-12:13:17.748 3255 Level-0 table #5: 834 bytes OK
+2022/02/10-12:13:17.750 3255 Delete type=0 #3
+2022/02/10-12:13:17.751 3255 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

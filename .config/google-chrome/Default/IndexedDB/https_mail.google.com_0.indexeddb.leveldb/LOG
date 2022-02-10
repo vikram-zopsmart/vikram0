@@ -1,0 +1,28 @@
+2022/02/10-09:40:46.538 e19 Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/10-09:40:46.538 e19 Recovering log #6
+2022/02/10-09:40:46.558 e19 Reusing old log /home/raramuri/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000006.log 
+2022/02/10-09:40:54.522 e45 Level-0 table #12: started
+2022/02/10-09:40:54.584 e45 Level-0 table #12: 2117966 bytes OK
+2022/02/10-09:40:54.595 e45 Delete type=0 #6
+2022/02/10-09:41:05.902 e3b Compacting 1@1 + 1@2 files
+2022/02/10-09:41:05.943 e3b Generated table #13@1: 214 keys, 262174 bytes
+2022/02/10-09:41:05.943 e3b Compacted 1@1 + 1@2 files => 262174 bytes
+2022/02/10-09:41:05.952 e3b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/10-09:41:05.952 e3b Delete type=2 #9
+2022/02/10-09:41:05.952 e3b Delete type=2 #12
+2022/02/10-10:01:32.509 127b Level-0 table #15: started
+2022/02/10-10:01:32.529 127b Level-0 table #15: 1988700 bytes OK
+2022/02/10-10:01:32.531 127b Delete type=0 #11
+2022/02/10-10:53:16.147 29d7 Compacting 1@1 + 1@2 files
+2022/02/10-10:53:16.171 29d7 Generated table #16@1: 183 keys, 205563 bytes
+2022/02/10-10:53:16.171 29d7 Compacted 1@1 + 1@2 files => 205563 bytes
+2022/02/10-10:53:16.173 29d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/10-10:53:16.175 29d7 Delete type=2 #15
+2022/02/10-10:53:16.175 29d7 Delete type=2 #13
+2022/02/10-10:55:58.205 29d7 Level-0 table #18: started
+2022/02/10-10:55:58.226 29d7 Level-0 table #18: 2167479 bytes OK
+2022/02/10-10:55:58.230 29d7 Delete type=0 #14
+2022/02/10-14:29:37.129 4018 Compacting 1@1 + 1@2 files
+2022/02/10-14:29:37.145 4018 Generated table #19@1: 221 keys, 317061 bytes
+2022/02/10-14:29:37.145 4018 Compacted 1@1 + 1@2 files => 317061 bytes
+2022/02/10-14:29:37.148 4018 compacted to: files[ 0 0 1 0 0 0 0 ]

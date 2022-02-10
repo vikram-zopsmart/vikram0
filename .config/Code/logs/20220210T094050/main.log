@@ -1,0 +1,16 @@
+[2022-02-10 09:40:51.056] [main] [info] update#setState idle
+[2022-02-10 09:40:51.599] [main] [info] ExtensionHostStarterWorker created
+[2022-02-10 09:40:55.658] [main] [info] Starting extension host with pid 4221 (fork() took 25 ms).
+[2022-02-10 09:40:55.664] [main] [info] ExtensionHostStarterWorker.start() took 40 ms.
+[2022-02-10 09:41:21.064] [main] [info] update#setState checking for updates
+[2022-02-10 09:41:21.068] [main] [info] update#setState idle
+[2022-02-10 10:41:21.164] [main] [info] update#setState checking for updates
+[2022-02-10 10:41:21.171] [main] [info] update#setState idle
+[2022-02-10 11:41:21.265] [main] [info] update#setState checking for updates
+[2022-02-10 11:41:21.270] [main] [info] update#setState idle
+[2022-02-10 12:41:21.368] [main] [info] update#setState checking for updates
+[2022-02-10 12:41:21.372] [main] [info] update#setState idle
+[2022-02-10 14:22:54.342] [main] [info] update#setState checking for updates
+[2022-02-10 14:22:54.358] [main] [info] update#setState idle
+[2022-02-10 15:02:35.315] [main] [info] Waiting for extension host with pid 4221 to exit.
+[2022-02-10 15:02:35.375] [main] [info] Extension host with pid 4221 exited with code: 0, signal: null.

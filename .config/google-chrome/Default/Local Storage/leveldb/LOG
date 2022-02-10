@@ -1,0 +1,24 @@
+2022/02/10-09:40:41.431 5 Reusing MANIFEST /home/raramuri/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/02/10-09:40:41.432 5 Recovering log #34
+2022/02/10-09:40:41.435 5 Reusing old log /home/raramuri/.config/google-chrome/Default/Local Storage/leveldb/000034.log 
+2022/02/10-11:45:44.096 25 Level-0 table #38: started
+2022/02/10-11:45:44.102 25 Level-0 table #38: 13889 bytes OK
+2022/02/10-11:45:44.108 25 Delete type=0 #34
+2022/02/10-14:29:38.630 71 Level-0 table #40: started
+2022/02/10-14:29:38.634 71 Level-0 table #40: 16386 bytes OK
+2022/02/10-14:29:38.636 71 Delete type=0 #37
+2022/02/10-14:29:38.637 71 Compacting 4@0 + 1@1 files
+2022/02/10-14:29:38.646 71 Generated table #41@0: 626 keys, 72926 bytes
+2022/02/10-14:29:38.646 71 Compacted 4@0 + 1@1 files => 72926 bytes
+2022/02/10-14:29:38.648 71 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/02/10-14:29:38.649 71 Delete type=2 #35
+2022/02/10-14:29:38.649 71 Delete type=2 #40
+2022/02/10-14:29:38.649 71 Delete type=2 #38
+2022/02/10-14:29:38.649 71 Delete type=2 #32
+2022/02/10-14:29:38.649 71 Delete type=2 #30
+2022/02/10-15:37:14.706 8b Level-0 table #43: started
+2022/02/10-15:37:14.711 8b Level-0 table #43: 18743 bytes OK
+2022/02/10-15:37:14.715 8b Delete type=0 #39
+2022/02/10-16:03:25.590 97 Level-0 table #45: started
+2022/02/10-16:03:25.595 97 Level-0 table #45: 36693 bytes OK
+2022/02/10-16:03:25.600 97 Delete type=0 #42
